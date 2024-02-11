@@ -1,0 +1,90 @@
+No.,Country,City,From,To,Duration
+1,China,Chongqing,2001/10/16,2001/10/23,7 
+2,Spain,Linares,2003/7/7,2003/7/18,11 
+3,Spain,Linares,2004/1/10,2004/2/14,35 
+4,Spain,Linares,2004/7/15,2004/8/2,18 
+5,Spain,Linares,2005/2/12,2005/2/27,15 
+6,Spain,Linares,2005/6/18,2005/6/25,7 
+7,Germany,Frankfurt,2005/6/25,2005/6/26,1 
+8,Myanmar,Yangon,2006/6/15,2006/6/18,3 
+9,Thailand,Bangkok,2006/6/18,2006/6/29,11 
+10,Cambodia,Phnom Penh,2006/6/29,2006/7/1,2 
+11,Vietnam,Ho Chi Minh,2006/7/1,2006/7/7,6 
+12,Thailand,Bangkok,2006/9/3,2006/9/12,9 
+13,Vietnam,Ho Chi Minh,2007/1/28,2007/2/11,14 
+14,Pakistan,Karachi,2007/2/11,2007/2/14,3 
+15,India,Delhi,2007/2/14,2007/2/18,4 
+16,Pakistan,Karachi,2007/5/20,2007/5/26,6 
+17,India,Delhi,2007/5/26,2007/6/10,15 
+18,Vietnam,Ho Chi Minh,2007/6/10,2007/6/17,7 
+19,Taiwan,Taipei,2007/7/12,2007/7/14,2 
+20,Vietnam,Ho Chi Minh,2007/9/19,2007/9/30,11 
+21,Cambodia,Phnom Penh,2007/9/30,2007/10/2,2 
+22,Vietnam,Ho Chi Minh,2007/10/2,2007/10/4,2 
+23,India,Delhi,2008/1/27,2008/2/13,17 
+24,Thailand,Bangkok,2008/2/13,2008/2/26,13 
+25,UAE,Dubai,2008/6/26,2008/7/4,8 
+26,India,Delhi,2008/7/4,2008/7/18,14 
+27,India,Delhi,2008/8/22,2008/9/7,16 
+28,India,Delhi,2009/5/31,2009/6/26,26 
+29,Thailand,Bangkok,2010/2/27,2010/3/2,3 
+30,Indonesia,Jakarta,2011/5/18,2011/5/21,3 
+31,China,Macau,2011/6/26,2011/6/28,2 
+32,Jordan,Amman,2011/10/26,2011/10/30,4 
+33,China,Hong Kong,2012/9/30,2012/10/1,1 
+34,Singapore,Singapore,2012/11/12,2012/11/15,3 
+35,Malaysia,Kuala Lumpur,2013/3/26,2013/3/29,3 
+36,Turkey,Istanbul,2013/8/18,2013/8/21,3 
+37,Spain,Barcelona,2013/11/1,2013/11/6,5 
+38,Indonesia,Jakarta,2014/9/16,2014/9/19,3 
+39,Germany,Frankfurt,2014/10/23,2014/10/24,1 
+40,France,Paris,2014/10/24,2014/10/27,3 
+41,Thailand,Bangkok,2015/4/30,2015/5/5,5 
+42,Indonesia,Jakarta,2015/5/18,2015/5/23,5 
+43,United States,San Francisco,2015/8/10,2015/8/17,7 
+44,Malaysia,Kuala Lumpur,2015/8/18,2015/9/8,21 
+45,Italy,Milano,2015/9/19,2015/9/23,4 
+46,Malaysia,Kuala Lumpur,2015/9/28,2015/10/1,3 
+47,Laos,Savannakhet,2015/11/18,2015/11/22,4 
+48,Malaysia,Kuala Lumpur,2015/12/16,2015/12/19,3 
+49,Malaysia,Kuala Lumpur,2016/3/22,2016/3/26,4 
+50,Malaysia,Kuala Lumpur,2016/4/18,2016/4/23,5 
+51,Malaysia,Kuala Lumpur,2016/5/19,2016/6/2,14 
+52,Sri Lanka,Colombo,2016/6/19,2016/6/22,3 
+53,Thailand,Bangkok,2016/6/22,2016/6/24,2 
+54,Malaysia,Kuala Lumpur,2016/7/3,2016/7/6,3 
+55,Sri Lanka,Colombo,2016/7/6,2016/7/11,5 
+56,Pakistan,Karachi,2016/7/11,2016/7/16,5 
+57,Thailand,Bangkok,2016/8/16,2016/8/21,5 
+58,Pakistan,Karachi,2016/10/13,2016/10/18,5 
+59,Malaysia,Kuala Lumpur,2016/10/23,2016/10/29,6 
+60,Malaysia,Kuala Lumpur,2016/12/18,2016/12/22,4 
+61,United States,Honolulu,2017/1/22,2017/1/29,7 
+62,Malaysia,Kuala Lumpur,2017/2/14,2017/2/18,4 
+63,Uzbekistan,Tashkent,2017/3/21,2017/3/25,4 
+64,Iran,Tehran,2017/7/27,2017/8/4,8 
+65,Uzbekistan,Tashkent,2017/9/24,2017/9/30,6 
+66,Iran,Tehran,2017/12/9,2017/12/18,9 
+67,Uzbekistan,Tashkent,2018/2/6,2018/2/13,7 
+68,Pakistan,Karachi,2018/2/24,2018/3/10,14 
+69,Bangladesh,Dhaka,2018/4/20,2018/4/24,4 
+70,Sri Lanka,Colombo,2018/4/24,2018/4/28,4 
+71,Uzbekistan,Tashkent,2018/6/3,2018/6/9,6 
+72,Pakistan,Karachi,2018/7/7,2018/7/21,14 
+73,Indonesia,Jakarta,2018/9/2,2018/9/15,13 
+74,Iran,Tehran,2018/9/15,2018/9/19,4 
+75,Pakistan,Karachi,2018/10/27,2018/11/10,14 
+76,Uzbekistan,Tashkent,2018/11/10,2018/11/17,7 
+77,Sri Lanka,Colombo,2018/12/16,2018/12/22,6 
+78,Pakistan,Karachi,2019/2/4,2019/2/23,19 
+79,Pakistan,Karachi,2019/4/13,2019/4/27,14 
+80,Uzbekistan,Tashkent,2019/5/19,2019/5/25,6 
+81,Pakistan,Karachi,2019/6/15,2019/6/29,14 
+82,Bangladesh,Dhaka,2019/7/20,2019/7/26,6 
+83,Sri Lanka,Colombo,2019/7/26,2019/8/1,6 
+84,Philippines,Cebu,2019/8/12,2019/8/16,4 
+85,Pakistan,Karachi,2019/8/19,2019/8/31,12 
+86,Pakistan,Karachi,2019/10/14,2019/10/26,12 
+87,Uzbekistan,Tashkent,2019/11/13,2019/11/21,8 
+88,Pakistan,Karachi,2019/12/7,2019/12/21,14 
+89,Bangladesh,Dhaka,2020/2/23,2020/2/28,5 
